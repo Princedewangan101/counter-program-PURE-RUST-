@@ -59,6 +59,7 @@ solana program deploy target/deploy/counter_program.so
 ## 🧪 Run JS Test
 
 cd counter-test
+
 node test.js
 
 # Output should show the counter value:
