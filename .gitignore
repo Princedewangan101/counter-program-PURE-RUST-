@@ -1,0 +1,12 @@
+# Node modules
+counter-test/node_modules/
+
+# Solana ledger (local test data)
+test-ledger/
+
+# Target build files
+target/
+
+# IDE / OS files
+*.log
+*.DS_Store
